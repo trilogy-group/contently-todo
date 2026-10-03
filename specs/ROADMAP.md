@@ -22,5 +22,5 @@ Security dependency upgrade: raise the transitive gem `rack` from 2.2.2 to the p
 
 | # | Slice | Kind | Depends on | Gates | Status |
 |---|---|---|---|---|---|
-| 010 | Bump rack 2.2.2 → 2.2.3.1 and prove the suite stays green (`bump-rack-2-2-3-1`) | code | - | - | [ ] Planned |
+| 010 | Bump rack 2.2.2 → 2.2.3.1 and prove the suite stays green (`bump-rack-2-2-3-1`) | code | - | - | [x] Done |
 <!-- drone-feature:feature/dependabot-bump-rack-to-2-2-3-1 END -->
